@@ -5,10 +5,10 @@ I am a Computer Science graduate with experience in web development and a strong
 
 Currently:
 
-📚 Studying Manual QA and Software Testing
-🔍 Improving skills in API testing, SQL and test design
-💻 Building personal web projects
-🚀 Interested in Backend Development and Software Architecture
+Studying Manual QA and Software Testing
+Improving skills in API testing, SQL and test design
+Building personal web projects
+Interested in Backend Development and Software Architecture
 Tech Stack
     QA
     Manual Testing
