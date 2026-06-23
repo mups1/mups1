@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 
 ![Backend](https://img.shields.io/badge/Backend-PHP-blue)
 ![Database](https://img.shields.io/badge/Database-MySQL-orange)
-![QA](https://img.shields.io/badge/QA-Manual-green)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![OOP](https://img.shields.io/badge/OOP-Object%20Oriented%20Programming-blue?style=for-the-badge)
