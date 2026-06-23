@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Backend](https://img.shields.io/badge/Backend-PHP-blue)
+![Frontend](https://img.shields.io/badge/Frontend-React-61DAFB)
+![Database](https://img.shields.io/badge/Database-MySQL-orange)
+![QA](https://img.shields.io/badge/QA-Manual-green)
