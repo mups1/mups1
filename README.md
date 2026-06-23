@@ -3,34 +3,13 @@ QA Engineer | Backend Enthusiast | Web Developer
 
 I am a Computer Science graduate with experience in web development and a strong interest in software quality assurance.
 
-Currently:
+## Currently
 
-Studying Manual QA and Software Testing
-Improving skills in API testing, SQL and test design
-Building personal web projects
-Interested in Backend Development and Software Architecture
-Tech Stack
-    QA
-    Manual Testing
-    Test Cases & Checklists
-    Bug Reporting
-    Jira
-    Postman
-    SQL
-    Development
-    PHP
-    Python
-    JavaScript
-    React
-    Node.js
-    MySQL
-    Tools
-    Git
-    GitHub
-    VS Code
-    Figma
-    Linux / macOS
-
+- Studying Manual QA and Software Testing
+- Improving skills in API Testing, SQL and Test Design
+- Learning Python and OOP
+- Building personal projects
+- Interested in Backend Development
 📫 Contact: dakofterov@gmail.com
 <!--
 **mups1/mups1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
